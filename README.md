@@ -1,8 +1,8 @@
 # Download-Server
-server that allows anonymous downloads.
+Client and server side program that allows anonymous downloads from servers in remote locations.
 
 
-How To Use This Program.
+## How To Use This Program.
 
 #### Step 1 Compile server.cpp and the client.cpp files and create different executables.
 ```bash
