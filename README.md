@@ -57,5 +57,3 @@ clang++ -std=c++11 client.cpp -o client
                   ******************************************************************************
 
 #### You can navigate through directories and download files, when done Type "Bye" to exit program.
-
-# Enjoy :>>
